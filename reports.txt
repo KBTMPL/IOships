@@ -1,0 +1,70 @@
+Raport wygenerowano: 1525103990.0064185 (2018-04-30 15:59:50)
+Na statek o id = 1 załadowano:
+23 kontenerów, zajmując przy tym 84.27%
+Na statek o id = 3 załadowano:
+24 kontenerów, zajmując przy tym 95.07%
+Na statek o id = 2 załadowano:
+11 kontenerów, zajmując przy tym 87.86%
+Na statek o id = 5 załadowano:
+18 kontenerów, zajmując przy tym 91.48%
+Na statek o id = 4 załadowano:
+19 kontenerów, zajmując przy tym 93.48%
+Łącznie zapakowano 95 kontenerów z dostępnych 100 kontenerów
+Średnia zajętość wyniosła: 90.18%
+
+Raport wygenerowano: 1525104016.540261 (2018-04-30 16:00:16)
+Na statek o id = 1 załadowano:
+19 kontenerów, zajmując przy tym 97.20%
+Na statek o id = 3 załadowano:
+17 kontenerów, zajmując przy tym 97.07%
+Na statek o id = 2 załadowano:
+15 kontenerów, zajmując przy tym 93.57%
+Na statek o id = 5 załadowano:
+18 kontenerów, zajmując przy tym 89.07%
+Na statek o id = 4 załadowano:
+16 kontenerów, zajmując przy tym 81.64%
+Łącznie zapakowano 85 kontenerów z dostępnych 100 kontenerów
+Średnia zajętość wyniosła: 92.90%
+
+Raport wygenerowano: 1525107866.6064503 (2018-04-30 17:04:26)
+Na statek o id = 1 załadowano:
+25 kontenerów, zajmując przy tym 95.60%
+Na statek o id = 3 załadowano:
+16 kontenerów, zajmując przy tym 95.73%
+Na statek o id = 2 załadowano:
+13 kontenerów, zajmując przy tym 94.46%
+Na statek o id = 5 załadowano:
+13 kontenerów, zajmując przy tym 88.33%
+Na statek o id = 4 załadowano:
+16 kontenerów, zajmując przy tym 97.58%
+Łącznie zapakowano 83 kontenerów z dostępnych 100 kontenerów
+Średnia zajętość wyniosła: 94.39%
+
+Raport wygenerowano: 1525107877.574583 (2018-04-30 17:04:37)
+Na statek o id = 1 załadowano:
+29 kontenerów, zajmując przy tym 97.07%
+Na statek o id = 3 załadowano:
+16 kontenerów, zajmując przy tym 95.20%
+Na statek o id = 2 załadowano:
+15 kontenerów, zajmując przy tym 92.14%
+Na statek o id = 5 załadowano:
+20 kontenerów, zajmując przy tym 92.22%
+Na statek o id = 4 załadowano:
+20 kontenerów, zajmując przy tym 71.74%
+Łącznie zapakowano 100 kontenerów z dostępnych 100 kontenerów
+Średnia zajętość wyniosła: 91.34%
+
+Raport wygenerowano: 1525107888.3032913 (2018-04-30 17:04:48)
+Na statek o id = 1 załadowano:
+12 kontenerów, zajmując przy tym 88.00%
+Na statek o id = 3 załadowano:
+18 kontenerów, zajmując przy tym 97.60%
+Na statek o id = 2 załadowano:
+13 kontenerów, zajmując przy tym 92.32%
+Na statek o id = 5 załadowano:
+15 kontenerów, zajmując przy tym 92.22%
+Na statek o id = 4 załadowano:
+15 kontenerów, zajmując przy tym 87.68%
+Łącznie zapakowano 73 kontenerów z dostępnych 100 kontenerów
+Średnia zajętość wyniosła: 91.90%
+
