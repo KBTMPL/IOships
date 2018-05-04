@@ -1,9 +1,6 @@
 from Main import Ship
 import Generator as g
-import Algorithm1 as a1
 import Algorithm2 as a2
-from shutil import copyfile
-from random import shuffle
 
 # input data
 
@@ -21,19 +18,15 @@ s5 = Ship(5, [20, 27])
 
 ships = [s1, s2, s3, s4, s5]
 
-# Algorithm 1
+# Algorithm 2
 
 # generate data
 
 g1 = g.Generator('containers.csv', n, min_xdim, min_ydim, max_xdim, max_ydim)
 g1.start()
-copyfile('containers.csv', 'containers_cp.csv')
 
 # run algorithm
 
-p1 = a1.Algorithm1('containers.csv', ships)
-p1.start()
-
-p2 = a2.Algorithm2('containers_cp.csv', ships)
+p2 = a2.Algorithm2('containers.csv', ships)
 p2.start()
 

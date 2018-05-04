@@ -1,70 +1,56 @@
-Raport wygenerowano: 1525103990.0064185 (2018-04-30 15:59:50)
+Raport wygenerowano: 1525468659.5064878 (2018-05-04 21:17:39)
 Na statek o id = 1 załadowano:
-23 kontenerów, zajmując przy tym 84.27%
+41 kontenerów, zajmując przy tym 88.13%
 Na statek o id = 3 załadowano:
-24 kontenerów, zajmując przy tym 95.07%
+20 kontenerów, zajmując przy tym 86.93%
 Na statek o id = 2 załadowano:
-11 kontenerów, zajmując przy tym 87.86%
+16 kontenerów, zajmując przy tym 82.14%
 Na statek o id = 5 załadowano:
-18 kontenerów, zajmując przy tym 91.48%
+11 kontenerów, zajmując przy tym 83.33%
 Na statek o id = 4 załadowano:
-19 kontenerów, zajmując przy tym 93.48%
-Łącznie zapakowano 95 kontenerów z dostępnych 100 kontenerów
-Średnia zajętość wyniosła: 90.18%
+5 kontenerów, zajmując przy tym 55.07%
+Łącznie zapakowano 93 kontenerów z dostępnych 100 kontenerów
+Średnia zajętość wyniosła: 81.32%
 
-Raport wygenerowano: 1525104016.540261 (2018-04-30 16:00:16)
+Raport wygenerowano: 1525468665.601492 (2018-05-04 21:17:45)
 Na statek o id = 1 załadowano:
-19 kontenerów, zajmując przy tym 97.20%
+23 kontenerów, zajmując przy tym 87.20%
 Na statek o id = 3 załadowano:
-17 kontenerów, zajmując przy tym 97.07%
+29 kontenerów, zajmując przy tym 83.87%
 Na statek o id = 2 załadowano:
-15 kontenerów, zajmując przy tym 93.57%
+13 kontenerów, zajmując przy tym 74.64%
 Na statek o id = 5 załadowano:
-18 kontenerów, zajmując przy tym 89.07%
+10 kontenerów, zajmując przy tym 74.44%
 Na statek o id = 4 załadowano:
-16 kontenerów, zajmując przy tym 81.64%
-Łącznie zapakowano 85 kontenerów z dostępnych 100 kontenerów
-Średnia zajętość wyniosła: 92.90%
+6 kontenerów, zajmując przy tym 69.08%
+Łącznie zapakowano 81 kontenerów z dostępnych 100 kontenerów
+Średnia zajętość wyniosła: 79.26%
 
-Raport wygenerowano: 1525107866.6064503 (2018-04-30 17:04:26)
+Raport wygenerowano: 1525468671.4121382 (2018-05-04 21:17:51)
 Na statek o id = 1 załadowano:
-25 kontenerów, zajmując przy tym 95.60%
+18 kontenerów, zajmując przy tym 90.53%
 Na statek o id = 3 załadowano:
-16 kontenerów, zajmując przy tym 95.73%
+17 kontenerów, zajmując przy tym 89.87%
 Na statek o id = 2 załadowano:
-13 kontenerów, zajmując przy tym 94.46%
+19 kontenerów, zajmując przy tym 89.46%
 Na statek o id = 5 załadowano:
-13 kontenerów, zajmując przy tym 88.33%
+13 kontenerów, zajmując przy tym 92.78%
 Na statek o id = 4 załadowano:
-16 kontenerów, zajmując przy tym 97.58%
-Łącznie zapakowano 83 kontenerów z dostępnych 100 kontenerów
-Średnia zajętość wyniosła: 94.39%
+14 kontenerów, zajmując przy tym 81.88%
+Łącznie zapakowano 81 kontenerów z dostępnych 100 kontenerów
+Średnia zajętość wyniosła: 89.38%
 
-Raport wygenerowano: 1525107877.574583 (2018-04-30 17:04:37)
+Raport wygenerowano: 1525468704.5983684 (2018-05-04 21:18:24)
 Na statek o id = 1 załadowano:
-29 kontenerów, zajmując przy tym 97.07%
+18 kontenerów, zajmując przy tym 94.27%
 Na statek o id = 3 załadowano:
-16 kontenerów, zajmując przy tym 95.20%
+16 kontenerów, zajmując przy tym 90.27%
 Na statek o id = 2 załadowano:
-15 kontenerów, zajmując przy tym 92.14%
+15 kontenerów, zajmując przy tym 91.43%
 Na statek o id = 5 załadowano:
-20 kontenerów, zajmując przy tym 92.22%
+18 kontenerów, zajmując przy tym 91.67%
 Na statek o id = 4 załadowano:
-20 kontenerów, zajmując przy tym 71.74%
-Łącznie zapakowano 100 kontenerów z dostępnych 100 kontenerów
-Średnia zajętość wyniosła: 91.34%
-
-Raport wygenerowano: 1525107888.3032913 (2018-04-30 17:04:48)
-Na statek o id = 1 załadowano:
-12 kontenerów, zajmując przy tym 88.00%
-Na statek o id = 3 załadowano:
-18 kontenerów, zajmując przy tym 97.60%
-Na statek o id = 2 załadowano:
-13 kontenerów, zajmując przy tym 92.32%
-Na statek o id = 5 załadowano:
-15 kontenerów, zajmując przy tym 92.22%
-Na statek o id = 4 załadowano:
-15 kontenerów, zajmując przy tym 87.68%
-Łącznie zapakowano 73 kontenerów z dostępnych 100 kontenerów
-Średnia zajętość wyniosła: 91.90%
+8 kontenerów, zajmując przy tym 95.65%
+Łącznie zapakowano 75 kontenerów z dostępnych 100 kontenerów
+Średnia zajętość wyniosła: 92.47%
 

@@ -9,6 +9,9 @@ class Ship:
         self.capacity = space[0] * space[1]
         self.floor = np.zeros((space[0], space[1]))
 
+    def clear_floor(self):
+        self.floor = np.zeros((self.space[0], self.space[1]))
+
 
 class Container:
     def __init__(self, idc, timestamp, space, capacity):  # do poprawy generacja timestampu
@@ -34,10 +37,10 @@ class Report:
         for ship in self.ships:
             self.overall_capacity += ship.capacity
 
-        lines_to_write = []
+        lines_to_write = list()
 
         lines_to_write.append('Raport wygenerowano: ' + str(self.timestamp) + ' (' + str(t.strftime("%Y-%m-%d %H:%M:%S", t.gmtime(self.timestamp))) + ')')
-        for x in range(0,len(self.count)):
+        for x in range(0, len(self.count)):
             lines_to_write.append('Na statek o id = ' + str(self.ships[x].ids) + ' załadowano:')
             lines_to_write.append(str(int(self.count[x])) + ' kontenerów, zajmując przy tym ' + str("%.2f" % (self.capacity_taken[x]/self.ships[x].capacity*100)) + '%')
         lines_to_write.append('Łącznie zapakowano ' + str(int(self.count.sum())) + ' kontenerów z dostępnych ' + str(int(self.containers_num)) + ' kontenerów')

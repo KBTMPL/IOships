@@ -8,11 +8,11 @@ class Algorithm1:
     ships = []
     containers = []
 
-    proc = None
-
     def __init__(self, path, ships):
         self.path = path
         self.ships = ships
+        for ship in ships:
+            ship.clear_floor()
 
     def load_containers_data(self):
         self.containers = []
@@ -36,7 +36,7 @@ class Algorithm1:
 
     def sort_containers(self):
         keyfun1 = operator.attrgetter('capacity')
-        self.containers.sort(key=keyfun1, reverse=True) # dopytać, przemyśleć
+        self.containers.sort(key=keyfun1, reverse=True)
         keyfun2 = operator.attrgetter('timestamp')
         self.containers.sort(key=keyfun2, reverse=False)
 

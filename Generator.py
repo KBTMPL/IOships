@@ -44,4 +44,5 @@ class Generator:
     def start(self):
         self.generate_containers()
         self.write_to_file()
+        return self.current_containers
 
