@@ -26,14 +26,14 @@ class Generator:
         self.current_containers = len(file)
         for i in range(1, self.max_containers - self.current_containers + 1):
             space = [r.randint(self.min_xdim, self.max_xdim), r.randint(self.min_ydim, self.max_ydim)]
-            self.containers.append(Container(self.idc, t.time(), space, space[0] * space[1]))
+            self.containers.append(Container(self.idc, t.time(), space))
             self.idc += 1
 
     def write_to_file(self):
         containers_data = []
         for container in self.containers:
-            containers_data.append(';'.join(
-                [str(container.idc), str(container.timestamp), str(container.space[0]), str(container.space[1]),
+            containers_data.append(','.join(
+                [str(container.timestamp), str(container.idc), '[' + str(container.space[0]), str(container.space[1]) + ']',
                  str(container.capacity)]))
         open(self.path, 'a').write('\n'.join(containers_data))
         open('id.txt', 'w').write(str(self.idc))

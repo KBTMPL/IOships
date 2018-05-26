@@ -28,5 +28,5 @@ g1.start()
 # run algorithm
 
 p2 = a2.Algorithm2('containers.csv', ships)
-p2.start()
+p2.perform_algorithm()
 

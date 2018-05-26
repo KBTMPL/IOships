@@ -3,71 +3,90 @@ from Main import Report
 from random import shuffle
 import operator
 import numpy as np
+import threading
 
 
-class Algorithm2:
+class Algorithm2(threading.Thread):
     ships = []
     containers = []
 
-    def __init__(self, path, ships):
+    def __init__(self, path, ships, report_path):
+        threading.Thread.__init__(self)
         self.path = path
         self.ships = ships
+        self.report_path = report_path
         self.timestamps = list()
         self.timestamp_elements = set()
-        for ship in ships:
+        self.max_containers = 100
+        self.algorithm_name = 'bruteforce'
+        self.clear_ships()
+
+    def run(self):
+        out = 0
+        while out != 1337:
+            out = self.perform_algorithm()
+
+    def clear_ships(self):
+        for ship in self.ships:
             ship.clear_floor()
 
     def load_containers_data(self):
         self.containers = []
         containers_data = open(self.path).read().splitlines()
         for line in containers_data:
-            buffer = line.split(';')
+            buffer = line.split(',')
             self.containers.append(
-                Container(int(buffer[0]), float(buffer[1]), [int(buffer[2]), int(buffer[3])], int(buffer[4])))
+                Container(int(buffer[1]), float(buffer[0]), [int(buffer[2].lstrip('[')), int(buffer[3].rstrip((']')))], int(buffer[4])))
 
     def write_whats_left(self):
         containers_data = []
         for container in self.containers:
             if not container.is_placed:
-                containers_data.append(';'.join(
-                    [str(container.idc), str(container.timestamp), str(container.space[0]), str(container.space[1]),
+                containers_data.append(','.join(
+                    [str(container.timestamp), str(container.idc), '[' + str(container.space[0]), str(container.space[1]) + ']',
                      str(container.capacity)]))
         if len(containers_data) != 0:
             open(self.path, 'w').write('\n'.join(containers_data) + '\n')
         else:
             open(self.path, 'w').close()
 
-    def sort_containers_capacity_stamp(self):
-        # keyfun1 = operator.attrgetter('capacity')
+    def shuffle_containers_and_sort_stamp(self):
+        # keyfun1 = operator.attrgetter('floor_area')
         # self.containers.sort(key=keyfun1, reverse=True)
         shuffle(self.containers)
         keyfun2 = operator.attrgetter('timestamp')
         self.containers.sort(key=keyfun2, reverse=False)
 
-    def sort_containers_capacity(self):
-        keyfun1 = operator.attrgetter('capacity')
+    def sort_containers_floor_area(self):
+        keyfun1 = operator.attrgetter('floor_area')
         self.containers.sort(key=keyfun1, reverse=True)
 
     def sort_ships_capacity(self):
-        keyfun1 = operator.attrgetter('capacity')
+        keyfun1 = operator.attrgetter('floor_area')
         self.ships.sort(key=keyfun1, reverse=True)
+
+    def make_placeable(self):
+        for i in range(self.max_containers):
+            self.containers[i].is_placeable = True
 
     def put_containers_to_ship(self):
         count = np.zeros(len(self.ships))
-        capacity_taken = np.zeros(len(self.ships))
+        surface_taken = np.zeros(len(self.ships))
         containers_num = len(self.containers)
 
-        for container in self.containers:
-            self.timestamps.append(container.timestamp)
-        self.timestamp_elements = list(set(self.timestamps))
-        #print(self.timestamp_elements)
+#        for container in self.containers:
+#            self.timestamps.append(container.timestamp)
+#        self.timestamp_elements = list(set(self.timestamps))
+#        print(self.timestamp_elements)
 
         for n, ship in enumerate(self.ships):
-            for ts in self.timestamp_elements:
+            iship = ship.space[0]
+            jship = ship.space[1]
+#            for ts in self.timestamp_elements:
+            if True:
                 for container in self.containers:
-                    if container.timestamp == ts and not container.is_placed:
-                        iship = ship.space[0]
-                        jship = ship.space[1]
+                    if container.is_placeable and not container.is_placed:
+#                       if container.is_placeable and container.timestamp == ts and not container.is_placed:
                         icont = container.space[0]
                         jcont = container.space[1]
                         i = 0
@@ -78,19 +97,24 @@ class Algorithm2:
                                     ship.floor[i:i + icont, j:j + jcont] = np.ones((icont, jcont))
                                     container.is_placed = True
                                     count[n] += 1
-                                    capacity_taken[n] += container.capacity
+                                    surface_taken[n] += container.floor_area
                                 j += 1
                             i += 1
-            self.sort_containers_capacity_stamp()
+            # self.shuffle_containers_and_sort_stamp()
 
-        return [count, capacity_taken, self.ships, containers_num]
+        return [count, surface_taken, self.ships, containers_num]
 
-    def start(self):
+    def perform_algorithm(self):
+        self.clear_ships()
         self.load_containers_data()
-        self.sort_containers_capacity_stamp()
-        self.sort_ships_capacity()
-        data = self.put_containers_to_ship()
-        self.write_whats_left()
+        if self.containers.__len__() >= 100:
+            self.shuffle_containers_and_sort_stamp()
+            self.make_placeable()
+            self.sort_ships_capacity()
+            data = self.put_containers_to_ship()
+            self.write_whats_left()
 
-        return Report(data, 'reports2.txt')
-
+            return Report(data, self.report_path, self.algorithm_name)
+        else:
+            print('Nie dostarczono ' + str(self.max_containers) + ' kontenerów')
+            return 1337
