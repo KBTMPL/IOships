@@ -74,33 +74,24 @@ class Algorithm2(threading.Thread):
         surface_taken = np.zeros(len(self.ships))
         containers_num = len(self.containers)
 
-#        for container in self.containers:
-#            self.timestamps.append(container.timestamp)
-#        self.timestamp_elements = list(set(self.timestamps))
-#        print(self.timestamp_elements)
-
         for n, ship in enumerate(self.ships):
             iship = ship.space[0]
             jship = ship.space[1]
-#            for ts in self.timestamp_elements:
-            if True:
-                for container in self.containers:
-                    if container.is_placeable and not container.is_placed:
-#                       if container.is_placeable and container.timestamp == ts and not container.is_placed:
-                        icont = container.space[0]
-                        jcont = container.space[1]
-                        i = 0
-                        while not container.is_placed and i + icont <= iship:
-                            j = 0
-                            while not container.is_placed and j + jcont <= jship:
-                                if np.array_equal(ship.floor[i:i + icont, j:j + jcont], np.zeros((icont, jcont))):
-                                    ship.floor[i:i + icont, j:j + jcont] = np.ones((icont, jcont))
-                                    container.is_placed = True
-                                    count[n] += 1
-                                    surface_taken[n] += container.floor_area
-                                j += 1
-                            i += 1
-            # self.shuffle_containers_and_sort_stamp()
+            for container in self.containers:
+                if container.is_placeable:
+                    icont = container.space[0]
+                    jcont = container.space[1]
+                    i = 0
+                    while not container.is_placed and i + icont <= iship:
+                        j = 0
+                        while not container.is_placed and j + jcont <= jship:
+                            if np.array_equal(ship.floor[i:i + icont, j:j + jcont], np.zeros((icont, jcont))):
+                                ship.floor[i:i + icont, j:j + jcont] = np.ones((icont, jcont))
+                                container.is_placed = True
+                                count[n] += 1
+                                surface_taken[n] += container.floor_area
+                            j += 1
+                        i += 1
 
         return [count, surface_taken, self.ships, containers_num]
 
