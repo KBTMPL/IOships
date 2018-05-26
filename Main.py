@@ -1,6 +1,6 @@
 import numpy as np
 import time as t
-import operator
+import collections
 
 
 class Ship:
@@ -47,12 +47,17 @@ class Report:
         # self.ships.sort(key=keyfun1, reverse=False)
 
         lines_to_write = list()
+        sort_buffer = dict()
 
         lines_to_write.append('Raport wygenerowano: ' + str(self.timestamp) + ' (' + str(t.strftime("%Y-%m-%d %H:%M:%S", t.gmtime(self.timestamp))) + ')')
         lines_to_write.append('Przy pomocy algorytmu: ' + self.algorithm_name)
         for x in range(0, len(self.count)):
-            lines_to_write.append('Na statek o id = ' + str(self.ships[x].ids) + ' załadowano:')
-            lines_to_write.append(str(int(self.count[x])) + ' kontenerów, zajmując przy tym ' + str("%.2f" % (self.surface_taken[x] / self.ships[x].floor_area * 100)) + '%')
+            # lines_to_write.append('Na statek o id = ' + str(self.ships[x].ids) + ' załadowano:')
+            # lines_to_write.append(str(int(self.count[x])) + ' kontenerów, zajmując przy tym ' + str("%.2f" % (self.surface_taken[x] / self.ships[x].floor_area * 100)) + '%')
+            sort_buffer[self.ships[x].ids] = 'Na statek o id = ' + str(self.ships[x].ids) + ' załadowano:\n' + str(int(self.count[x])) + ' kontenerów, zajmując przy tym ' + str("%.2f" % (self.surface_taken[x] / self.ships[x].floor_area * 100)) + '%'
+        sorted_buffer = collections.OrderedDict(sorted(sort_buffer.items()))
+        for key, val in sort_buffer.items():
+            lines_to_write.append(val)
         lines_to_write.append('Łącznie zapakowano ' + str(int(self.count.sum())) + ' kontenerów z dostępnych ' + str(int(self.containers_num)) + ' kontenerów')
         lines_to_write.append('Średnia zajętość wyniosła: ' + str("%.2f" % (self.surface_taken.sum() / self.overall_area * 100)) + '%')
         open(self.path, 'a',  encoding="utf-8").write('\n'.join(lines_to_write) + '\n\n')
