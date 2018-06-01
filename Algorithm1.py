@@ -31,9 +31,23 @@ class Algorithm1(threading.Thread):
         self.containers = []
         containers_data = open(self.path).read().splitlines()
         for line in containers_data:
-            buffer = line.split(',')
+            try:
+                buffer = line.split(',')
+                ids = int(buffer[1])
+                timestamp = float(buffer[0])
+                space_i = int(buffer[2].lstrip('['))
+                space_j = int(buffer[3].rstrip(']'))
+                capacity = int(buffer[4])
+            except ValueError as verr:
+                print('Uszkodzony linia:')
+                print(line)
+                break
+            except Exception as ex:
+                print('Uszkodzony linia:')
+                print(line)
+                break
             self.containers.append(
-                Container(int(buffer[1]), float(buffer[0]), [int(buffer[2].lstrip('[')), int(buffer[3].rstrip((']')))], int(buffer[4])))
+                Container(ids, timestamp, [space_i, space_j], capacity))
 
     def write_whats_left(self):
         containers_data = []
@@ -88,7 +102,7 @@ class Algorithm1(threading.Thread):
     def perform_algorithm(self):
         self.clear_ships()
         self.load_containers_data()
-        if self.containers.__len__() >= 100:
+        if self.containers.__len__() >= self.max_containers:
             self.sort_containers()
             self.make_placeable()
             self.sort_ships()
