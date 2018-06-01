@@ -39,11 +39,11 @@ class Algorithm1(threading.Thread):
                 space_j = int(buffer[3].rstrip(']'))
                 capacity = int(buffer[4])
             except ValueError as verr:
-                print('Uszkodzony linia:')
+                print('Uszkodzona linia:')
                 print(line)
                 break
             except Exception as ex:
-                print('Uszkodzony linia:')
+                print('Uszkodzona linia:')
                 print(line)
                 break
             self.containers.append(
