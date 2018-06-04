@@ -3,33 +3,83 @@ import Generator as g
 import Algorithm1 as a1
 import Algorithm2 as a2
 from shutil import copyfile
-import threading
+import copy
+import time as t
 
 
 def own_testing():
-    n = 100
+    n = 10000
     max_xdim = 10  # i
     max_ydim = 10  # j
     min_xdim = 1  # i
     min_ydim = 1  # j
 
-    s1 = Ship(1, [25, 30])  # [i,j]
-    s2 = Ship(2, [20, 28])
-    s3 = Ship(3, [25, 30])
-    s4 = Ship(4, [18, 23])
-    s5 = Ship(5, [20, 27])
+    s1 = Ship(1, [25, 30], 1)  # [i,j]
+    s2 = Ship(2, [20, 28], 1)
+    s3 = Ship(3, [25, 30], 1)
+    s4 = Ship(4, [18, 23], 1)
+    s5 = Ship(5, [20, 27], 1)
     ships = [s1, s2, s3, s4, s5]
 
+    a1c = 'containers.csv'
+    a2c = 'containers_cp.csv'
+    a1r = 'reports.txt'
+    a2r = 'reports2.txt'
+
+    open(a1c, 'w').close()
+    open(a2c, 'w').close()
+
     # generate data
-    g1 = g.Generator('containers.csv', n, min_xdim, min_ydim, max_xdim, max_ydim)
+    g1 = g.Generator(a1c, n, min_xdim, min_ydim, max_xdim, max_ydim)
     g1.start()
-    copyfile('containers.csv', 'containers_cp.csv')
+    copyfile(a1c, a2c)
 
     # run algorithm
-    p1 = a1.Algorithm1('containers.csv', ships, 'reports.csv')
-    p1.perform_algorithm()
-    p2 = a2.Algorithm2('containers_cp.csv', ships, 'reports2.csv')
-    p2.perform_algorithm()
+
+    ships_cp = copy.copy(ships)
+
+    open(a1r, 'w').close()
+    open(a2r, 'w').close()
+
+    t1 = a1.Algorithm1(a1c, ships, a1r)
+    t2 = a2.Algorithm2(a2c, ships_cp, a2r)
+
+    i_greed = 0
+    i_brute = 0
+
+    empty_ships_greed = 0
+    empty_ships_brute = 0
+
+    out = 0
+    while out != 1337:
+        out = t1.perform_algorithm()
+        i_greed += 1
+        if out != 1337:
+            empty_ships_greed += out.empty_ships
+
+    out = 0
+    while out != 1337:
+        out = t2.perform_algorithm()
+        i_brute += 1
+        if out != 1337:
+            empty_ships_brute += out.empty_ships
+
+    test_output = list()
+
+    test_output.append('Liczba raportów: ')
+    test_output.append('Algorytm zachłanny: ' + str(i_greed))
+    test_output.append('Algorytm bruteforce: ' + str(i_brute))
+    test_output.append('Liczba pustych statków: ')
+    test_output.append('Algorytm zachłanny: ' + str(empty_ships_greed))
+    test_output.append('Algorytm bruteforce: ' + str(empty_ships_brute))
+
+    open('test_outputs\\'+str(int(t.time())) + '.txt', 'w').write('\n'.join(test_output))
+
+    # t1.start()
+    # t2.start()
+
+    # while t1.is_alive() or t2.is_alive():
+    #    pass
 
 
 def client_data_testing(ships_path, containers_path):
@@ -50,20 +100,6 @@ def client_data_testing(ships_path, containers_path):
 
     # run algorithm
 
-    out1 = 0
-    out2 = 0
-
-    open(a1r, 'w').close()
-    open(a2r, 'w').close()
-
-#    while out1 != 1337:
-#        p1 = a1.Algorithm1(a1c, ships, a1r)
-#        out1 = p1.perform_algorithm()
-
-#    while out2 != 1337:
-#        p2 = a2.Algorithm2(a2c, ships, a2r)
-#        out2 = p2.perform_algorithm()
-
     ships_cp = ships
 
     open(a1r, 'w').close()
@@ -72,11 +108,44 @@ def client_data_testing(ships_path, containers_path):
     t1 = a1.Algorithm1(a1c, ships, a1r)
     t2 = a2.Algorithm2(a2c, ships_cp, a2r)
 
-    t1.start()
-    t2.start()
+    i_greed = 0
+    i_brute = 0
 
-    while t1.is_alive() or t2.is_alive():
-        pass
+    empty_ships_greed = 0
+    empty_ships_brute = 0
 
-client_data_testing('DataInputGroupPT1440_SHIPS.csv', 'DataInputGroupPT1440.csv')
+    out = 0
+    while out != 1337:
+        out = t1.perform_algorithm()
+        i_greed += 1
+        if out != 1337:
+            empty_ships_greed += out.empty_ships
 
+    out = 0
+    while out != 1337:
+        out = t2.perform_algorithm()
+        i_brute += 1
+        if out != 1337:
+            empty_ships_brute += out.empty_ships
+
+    test_output = list()
+
+    test_output.append('Liczba raportów: ')
+    test_output.append('Algorytm zachłanny: ' + str(i_greed))
+    test_output.append('Algorytm bruteforce: ' + str(i_brute))
+    test_output.append('Liczba pustych statków: ')
+    test_output.append('Algorytm zachłanny: ' + str(empty_ships_greed))
+    test_output.append('Algorytm bruteforce: ' + str(empty_ships_brute))
+
+    open('test_outputs\\'+str(int(t.time())) + '.txt', 'a').write('\n'.join(test_output))
+
+    # t1.start()
+    # t2.start()
+
+    # while t1.is_alive() or t2.is_alive():
+    #    pass
+
+# client_data_testing('DataInputGroupPT1440_SHIPS.csv', 'DataInputGroupPT1440.csv')
+
+
+own_testing()

@@ -42,11 +42,11 @@ class Algorithm2(threading.Thread):
                 space_j = int(buffer[3].rstrip(']'))
                 capacity = int(buffer[4])
             except ValueError as verr:
-                print('Uszkodzona linia:')
+                print('Uszkodzony linia:')
                 print(line)
                 break
             except Exception as ex:
-                print('Uszkodzona linia:')
+                print('Uszkodzony linia:')
                 print(line)
                 break
             self.containers.append(
@@ -84,11 +84,9 @@ class Algorithm2(threading.Thread):
             self.containers[i].is_placeable = True
 
     def put_containers_to_ship(self):
-        count = np.zeros(len(self.ships))
-        surface_taken = np.zeros(len(self.ships))
         containers_num = len(self.containers)
 
-        for n, ship in enumerate(self.ships):
+        for ship in self.ships:
             iship = ship.space[0]
             jship = ship.space[1]
             for container in self.containers:
@@ -102,12 +100,12 @@ class Algorithm2(threading.Thread):
                             if np.array_equal(ship.floor[i:i + icont, j:j + jcont], np.zeros((icont, jcont))):
                                 ship.floor[i:i + icont, j:j + jcont] = np.ones((icont, jcont))
                                 container.is_placed = True
-                                count[n] += 1
-                                surface_taken[n] += container.floor_area
+                                ship.containers_loaded += 1
+                                ship.area_taken += container.floor_area
                             j += 1
                         i += 1
 
-        return [count, surface_taken, self.ships, containers_num]
+        return [self.ships, containers_num]
 
     def perform_algorithm(self):
         self.clear_ships()
@@ -121,5 +119,5 @@ class Algorithm2(threading.Thread):
 
             return Report(data, self.report_path, self.algorithm_name)
         else:
-            print('Nie dostarczono ' + str(self.max_containers) + ' kontenerów')
+            print('Nie dostarczono ' + str(self.max_containers) + ' kontenerów | ' + self.algorithm_name)
             return 1337
