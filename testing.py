@@ -66,6 +66,7 @@ def own_testing():
 
     test_output = list()
 
+    test_output.append(str(t.strftime("%Y-%m-%d %H:%M:%S", t.gmtime(t.time()))))
     test_output.append('Liczba raportów: ')
     test_output.append('Algorytm zachłanny: ' + str(i_greed))
     test_output.append('Algorytm bruteforce: ' + str(i_brute))
@@ -73,7 +74,7 @@ def own_testing():
     test_output.append('Algorytm zachłanny: ' + str(empty_ships_greed))
     test_output.append('Algorytm bruteforce: ' + str(empty_ships_brute))
 
-    open('test_outputs\\'+str(int(t.time())) + '.txt', 'w').write('\n'.join(test_output))
+    open('test_outputs\\tests.txt', 'a',  encoding="utf-8").write('\n'.join(test_output))
 
     # t1.start()
     # t2.start()
@@ -138,7 +139,7 @@ def client_data_testing(ships_path, containers_path):
     test_output.append('Algorytm zachłanny: ' + str(empty_ships_greed))
     test_output.append('Algorytm bruteforce: ' + str(empty_ships_brute))
 
-    open('test_outputs\\tests.txt', 'a',  encoding="utf-8").write('\n'.join(test_output))
+    open('test_outputs\\tests.txt', 'a',  encoding="utf-8").write('\n'.join(test_output) + '\n\n')
 
     # t1.start()
     # t2.start()
