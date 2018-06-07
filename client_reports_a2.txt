@@ -1,1500 +1,1089 @@
-Raport wygenerowano: 1527888352.9472666 (2018-06-01 21:25:52)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 27.48%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 10000 kontenerów
-Średnia zajętość wyniosła: 9.51%
-
-Raport wygenerowano: 1527888355.7682655 (2018-06-01 21:25:55)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 31.64%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 9900 kontenerów
-Średnia zajętość wyniosła: 10.95%
-
-Raport wygenerowano: 1527888357.9823067 (2018-06-01 21:25:57)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 30.02%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 9800 kontenerów
-Średnia zajętość wyniosła: 10.39%
-
-Raport wygenerowano: 1527888360.0713058 (2018-06-01 21:26:00)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 32.53%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 9700 kontenerów
-Średnia zajętość wyniosła: 11.26%
-
-Raport wygenerowano: 1527888362.568308 (2018-06-01 21:26:02)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 32.42%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 9600 kontenerów
-Średnia zajętość wyniosła: 11.22%
-
-Raport wygenerowano: 1527888364.6883056 (2018-06-01 21:26:04)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 31.97%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 9500 kontenerów
-Średnia zajętość wyniosła: 11.06%
-
-Raport wygenerowano: 1527888366.8393052 (2018-06-01 21:26:06)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.19%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 9400 kontenerów
-Średnia zajętość wyniosła: 10.10%
-
-Raport wygenerowano: 1527888368.7203362 (2018-06-01 21:26:08)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 32.95%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 9300 kontenerów
-Średnia zajętość wyniosła: 11.40%
-
-Raport wygenerowano: 1527888370.7753062 (2018-06-01 21:26:10)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.82%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 9200 kontenerów
-Średnia zajętość wyniosła: 10.32%
-
-Raport wygenerowano: 1527888372.9773397 (2018-06-01 21:26:12)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 30.83%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 9100 kontenerów
-Średnia zajętość wyniosła: 10.67%
-
-Raport wygenerowano: 1527888374.6833086 (2018-06-01 21:26:14)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.18%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 9000 kontenerów
-Średnia zajętość wyniosła: 10.10%
-
-Raport wygenerowano: 1527888376.331306 (2018-06-01 21:26:16)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 28.86%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 8900 kontenerów
-Średnia zajętość wyniosła: 9.99%
-
-Raport wygenerowano: 1527888378.4613059 (2018-06-01 21:26:18)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 31.64%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 8800 kontenerów
-Średnia zajętość wyniosła: 10.95%
-
-Raport wygenerowano: 1527888380.3853064 (2018-06-01 21:26:20)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 30.04%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 8700 kontenerów
-Średnia zajętość wyniosła: 10.39%
-
-Raport wygenerowano: 1527888382.6443102 (2018-06-01 21:26:22)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 27.81%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 8600 kontenerów
-Średnia zajętość wyniosła: 9.62%
-
-Raport wygenerowano: 1527888384.841309 (2018-06-01 21:26:24)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.04%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 8500 kontenerów
-Średnia zajętość wyniosła: 10.05%
-
-Raport wygenerowano: 1527888386.5993462 (2018-06-01 21:26:26)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405425.6513422 (2018-06-07 21:03:45)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
 100 kontenerów, zajmując przy tym 27.50%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 8400 kontenerów
-Średnia zajętość wyniosła: 9.51%
+Łącznie zapakowano 100 kontenerów z dostępnych 9996 kontenerów
+Średnia zajętość wyniosła: 14.56%
 
-Raport wygenerowano: 1527888388.685346 (2018-06-01 21:26:28)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405426.315338 (2018-06-07 21:03:46)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 33.26%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 31.49%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 8300 kontenerów
-Średnia zajętość wyniosła: 11.51%
+Łącznie zapakowano 100 kontenerów z dostępnych 9896 kontenerów
+Średnia zajętość wyniosła: 16.67%
 
-Raport wygenerowano: 1527888390.463344 (2018-06-01 21:26:30)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405426.8993418 (2018-06-07 21:03:46)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 32.72%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 30.01%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 8200 kontenerów
-Średnia zajętość wyniosła: 11.32%
+Łącznie zapakowano 100 kontenerów z dostępnych 9796 kontenerów
+Średnia zajętość wyniosła: 15.89%
 
-Raport wygenerowano: 1527888392.2353723 (2018-06-01 21:26:32)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405427.4743426 (2018-06-07 21:03:47)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 26.17%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 33.05%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 8100 kontenerów
-Średnia zajętość wyniosła: 9.05%
+Łącznie zapakowano 100 kontenerów z dostępnych 9696 kontenerów
+Średnia zajętość wyniosła: 17.50%
 
-Raport wygenerowano: 1527888394.3913457 (2018-06-01 21:26:34)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 30.44%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 8000 kontenerów
-Średnia zajętość wyniosła: 10.53%
-
-Raport wygenerowano: 1527888396.4363496 (2018-06-01 21:26:36)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 33.61%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 7900 kontenerów
-Średnia zajętość wyniosła: 11.63%
-
-Raport wygenerowano: 1527888398.006383 (2018-06-01 21:26:38)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 30.00%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 7800 kontenerów
-Średnia zajętość wyniosła: 10.38%
-
-Raport wygenerowano: 1527888399.514386 (2018-06-01 21:26:39)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.91%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 7700 kontenerów
-Średnia zajętość wyniosła: 10.35%
-
-Raport wygenerowano: 1527888401.2544284 (2018-06-01 21:26:41)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 30.61%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 7600 kontenerów
-Średnia zajętość wyniosła: 10.59%
-
-Raport wygenerowano: 1527888403.01346 (2018-06-01 21:26:43)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.69%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 7500 kontenerów
-Średnia zajętość wyniosła: 10.28%
-
-Raport wygenerowano: 1527888404.6664777 (2018-06-01 21:26:44)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 30.15%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 7400 kontenerów
-Średnia zajętość wyniosła: 10.43%
-
-Raport wygenerowano: 1527888406.736472 (2018-06-01 21:26:46)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 33.52%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 7300 kontenerów
-Średnia zajętość wyniosła: 11.60%
-
-Raport wygenerowano: 1527888408.3285005 (2018-06-01 21:26:48)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 26.62%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 7200 kontenerów
-Średnia zajętość wyniosła: 9.21%
-
-Raport wygenerowano: 1527888410.1414707 (2018-06-01 21:26:50)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405428.0683403 (2018-06-07 21:03:48)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
 100 kontenerów, zajmując przy tym 31.68%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 7100 kontenerów
-Średnia zajętość wyniosła: 10.96%
+Łącznie zapakowano 100 kontenerów z dostępnych 9596 kontenerów
+Średnia zajętość wyniosła: 16.77%
 
-Raport wygenerowano: 1527888411.8455052 (2018-06-01 21:26:51)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405428.6093376 (2018-06-07 21:03:48)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 30.93%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 30.92%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 7000 kontenerów
-Średnia zajętość wyniosła: 10.70%
+Łącznie zapakowano 100 kontenerów z dostępnych 9496 kontenerów
+Średnia zajętość wyniosła: 16.37%
 
-Raport wygenerowano: 1527888415.2484727 (2018-06-01 21:26:55)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405429.1973717 (2018-06-07 21:03:49)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 27.97%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 29.76%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 6900 kontenerów
-Średnia zajętość wyniosła: 9.68%
+Łącznie zapakowano 100 kontenerów z dostępnych 9396 kontenerów
+Średnia zajętość wyniosła: 15.75%
 
-Raport wygenerowano: 1527888417.9614744 (2018-06-01 21:26:57)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405429.840338 (2018-06-07 21:03:49)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 27.03%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 33.76%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 6800 kontenerów
-Średnia zajętość wyniosła: 9.35%
+Łącznie zapakowano 100 kontenerów z dostępnych 9296 kontenerów
+Średnia zajętość wyniosła: 17.87%
 
-Raport wygenerowano: 1527888420.5584705 (2018-06-01 21:27:00)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405430.3843377 (2018-06-07 21:03:50)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 32.88%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 29.46%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 6700 kontenerów
-Średnia zajętość wyniosła: 11.38%
+Łącznie zapakowano 100 kontenerów z dostępnych 9196 kontenerów
+Średnia zajętość wyniosła: 15.60%
 
-Raport wygenerowano: 1527888422.5624704 (2018-06-01 21:27:02)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405430.9793396 (2018-06-07 21:03:50)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 28.80%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 30.13%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 6600 kontenerów
-Średnia zajętość wyniosła: 9.97%
+Łącznie zapakowano 100 kontenerów z dostępnych 9096 kontenerów
+Średnia zajętość wyniosła: 15.95%
 
-Raport wygenerowano: 1527888424.6314712 (2018-06-01 21:27:04)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405431.49937 (2018-06-07 21:03:51)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 32.39%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 29.10%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 6500 kontenerów
-Średnia zajętość wyniosła: 11.21%
+Łącznie zapakowano 100 kontenerów z dostępnych 8996 kontenerów
+Średnia zajętość wyniosła: 15.40%
 
-Raport wygenerowano: 1527888426.5675013 (2018-06-01 21:27:06)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405432.0373373 (2018-06-07 21:03:52)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 33.77%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 30.09%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 6400 kontenerów
-Średnia zajętość wyniosła: 11.69%
+Łącznie zapakowano 100 kontenerów z dostępnych 8896 kontenerów
+Średnia zajętość wyniosła: 15.93%
 
-Raport wygenerowano: 1527888428.445475 (2018-06-01 21:27:08)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405432.5943387 (2018-06-07 21:03:52)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 28.75%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 30.83%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 6300 kontenerów
-Średnia zajętość wyniosła: 9.95%
+Łącznie zapakowano 100 kontenerów z dostępnych 8796 kontenerów
+Średnia zajętość wyniosła: 16.32%
 
-Raport wygenerowano: 1527888429.9925008 (2018-06-01 21:27:09)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405433.1823413 (2018-06-07 21:03:53)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.87%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 30.61%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 6200 kontenerów
-Średnia zajętość wyniosła: 10.33%
+Łącznie zapakowano 100 kontenerów z dostępnych 8696 kontenerów
+Średnia zajętość wyniosła: 16.20%
 
-Raport wygenerowano: 1527888431.993471 (2018-06-01 21:27:11)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405433.7253392 (2018-06-07 21:03:53)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 32.39%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 26.72%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 6100 kontenerów
-Średnia zajętość wyniosła: 11.21%
+Łącznie zapakowano 100 kontenerów z dostępnych 8596 kontenerów
+Średnia zajętość wyniosła: 14.14%
 
-Raport wygenerowano: 1527888434.09747 (2018-06-01 21:27:14)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405434.277343 (2018-06-07 21:03:54)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 31.01%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 29.67%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 6000 kontenerów
-Średnia zajętość wyniosła: 10.73%
+Łącznie zapakowano 100 kontenerów z dostępnych 8496 kontenerów
+Średnia zajętość wyniosła: 15.71%
 
-Raport wygenerowano: 1527888435.7984731 (2018-06-01 21:27:15)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405434.81534 (2018-06-07 21:03:54)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.22%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 27.31%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 5900 kontenerów
-Średnia zajętość wyniosła: 10.11%
+Łącznie zapakowano 100 kontenerów z dostępnych 8396 kontenerów
+Średnia zajętość wyniosła: 14.46%
 
-Raport wygenerowano: 1527888437.6354702 (2018-06-01 21:27:17)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405435.442352 (2018-06-07 21:03:55)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 28.42%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 33.53%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 5800 kontenerów
-Średnia zajętość wyniosła: 9.84%
+Łącznie zapakowano 100 kontenerów z dostępnych 8296 kontenerów
+Średnia zajętość wyniosła: 17.75%
 
-Raport wygenerowano: 1527888440.050473 (2018-06-01 21:27:20)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405436.0703373 (2018-06-07 21:03:56)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 30.77%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 32.71%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 5700 kontenerów
-Średnia zajętość wyniosła: 10.65%
+Łącznie zapakowano 100 kontenerów z dostępnych 8196 kontenerów
+Średnia zajętość wyniosła: 17.32%
 
-Raport wygenerowano: 1527888441.2744699 (2018-06-01 21:27:21)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405436.5453377 (2018-06-07 21:03:56)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 32.11%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 26.61%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 5600 kontenerów
-Średnia zajętość wyniosła: 11.11%
+Łącznie zapakowano 100 kontenerów z dostępnych 8096 kontenerów
+Średnia zajętość wyniosła: 14.08%
 
-Raport wygenerowano: 1527888443.1004713 (2018-06-01 21:27:23)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405437.1713367 (2018-06-07 21:03:57)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 31.20%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 30.51%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 5500 kontenerów
-Średnia zajętość wyniosła: 10.80%
+Łącznie zapakowano 100 kontenerów z dostępnych 7996 kontenerów
+Średnia zajętość wyniosła: 16.15%
 
-Raport wygenerowano: 1527888445.3174698 (2018-06-01 21:27:25)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405437.7333398 (2018-06-07 21:03:57)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 33.98%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 33.49%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 5400 kontenerów
-Średnia zajętość wyniosła: 11.76%
+Łącznie zapakowano 100 kontenerów z dostępnych 7896 kontenerów
+Średnia zajętość wyniosła: 17.73%
 
-Raport wygenerowano: 1527888447.7164714 (2018-06-01 21:27:27)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405438.33634 (2018-06-07 21:03:58)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 34.96%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 29.63%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 5300 kontenerów
-Średnia zajętość wyniosła: 12.10%
+Łącznie zapakowano 100 kontenerów z dostępnych 7796 kontenerów
+Średnia zajętość wyniosła: 15.69%
 
-Raport wygenerowano: 1527888449.890473 (2018-06-01 21:27:29)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405438.9063375 (2018-06-07 21:03:58)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 34.46%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 29.63%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 5200 kontenerów
-Średnia zajętość wyniosła: 11.92%
+Łącznie zapakowano 100 kontenerów z dostępnych 7696 kontenerów
+Średnia zajętość wyniosła: 15.69%
 
-Raport wygenerowano: 1527888451.8484704 (2018-06-01 21:27:31)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405439.4803379 (2018-06-07 21:03:59)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 30.57%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 31.49%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 5100 kontenerów
-Średnia zajętość wyniosła: 10.58%
+Łącznie zapakowano 100 kontenerów z dostępnych 7596 kontenerów
+Średnia zajętość wyniosła: 16.67%
 
-Raport wygenerowano: 1527888453.6544707 (2018-06-01 21:27:33)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405440.0663378 (2018-06-07 21:04:00)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 30.99%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 29.58%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 5000 kontenerów
-Średnia zajętość wyniosła: 10.72%
+Łącznie zapakowano 100 kontenerów z dostępnych 7496 kontenerów
+Średnia zajętość wyniosła: 15.66%
 
-Raport wygenerowano: 1527888456.0684745 (2018-06-01 21:27:36)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405440.5903375 (2018-06-07 21:04:00)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 35.26%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 30.07%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 4900 kontenerów
-Średnia zajętość wyniosła: 12.20%
+Łącznie zapakowano 100 kontenerów z dostępnych 7396 kontenerów
+Średnia zajętość wyniosła: 15.92%
 
-Raport wygenerowano: 1527888457.9894736 (2018-06-01 21:27:37)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405441.182338 (2018-06-07 21:04:01)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 33.33%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 32.53%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 4800 kontenerów
-Średnia zajętość wyniosła: 11.53%
+Łącznie zapakowano 100 kontenerów z dostępnych 7296 kontenerów
+Średnia zajętość wyniosła: 17.22%
 
-Raport wygenerowano: 1527888459.403501 (2018-06-01 21:27:39)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405441.66134 (2018-06-07 21:04:01)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 26.47%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 27.96%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 4700 kontenerów
-Średnia zajętość wyniosła: 9.16%
+Łącznie zapakowano 100 kontenerów z dostępnych 7196 kontenerów
+Średnia zajętość wyniosła: 14.80%
 
-Raport wygenerowano: 1527888461.2435024 (2018-06-01 21:27:41)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405442.209342 (2018-06-07 21:04:02)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.94%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 31.11%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 4600 kontenerów
-Średnia zajętość wyniosła: 10.36%
+Łącznie zapakowano 100 kontenerów z dostępnych 7096 kontenerów
+Średnia zajętość wyniosła: 16.47%
 
-Raport wygenerowano: 1527888462.5084698 (2018-06-01 21:27:42)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405442.8393395 (2018-06-07 21:04:02)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 28.58%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 31.34%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 4500 kontenerów
-Średnia zajętość wyniosła: 9.89%
+Łącznie zapakowano 100 kontenerów z dostępnych 6996 kontenerów
+Średnia zajętość wyniosła: 16.59%
 
-Raport wygenerowano: 1527888464.0604737 (2018-06-01 21:27:44)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405443.3263402 (2018-06-07 21:04:03)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 26.97%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 27.12%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 4400 kontenerów
-Średnia zajętość wyniosła: 9.33%
+Łącznie zapakowano 100 kontenerów z dostępnych 6896 kontenerów
+Średnia zajętość wyniosła: 14.35%
 
-Raport wygenerowano: 1527888466.2104704 (2018-06-01 21:27:46)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405443.834338 (2018-06-07 21:04:03)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 31.71%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 28.22%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 4300 kontenerów
-Średnia zajętość wyniosła: 10.97%
+Łącznie zapakowano 100 kontenerów z dostępnych 6796 kontenerów
+Średnia zajętość wyniosła: 14.94%
 
-Raport wygenerowano: 1527888468.1584718 (2018-06-01 21:27:48)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405444.4013364 (2018-06-07 21:04:04)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.39%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 32.30%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 4200 kontenerów
-Średnia zajętość wyniosła: 10.17%
+Łącznie zapakowano 100 kontenerów z dostępnych 6696 kontenerów
+Średnia zajętość wyniosła: 17.10%
 
-Raport wygenerowano: 1527888469.9914744 (2018-06-01 21:27:49)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405444.9123402 (2018-06-07 21:04:04)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.28%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 28.30%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 4100 kontenerów
-Średnia zajętość wyniosła: 10.13%
+Łącznie zapakowano 100 kontenerów z dostępnych 6596 kontenerów
+Średnia zajętość wyniosła: 14.98%
 
-Raport wygenerowano: 1527888472.0774739 (2018-06-01 21:27:52)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405445.5463412 (2018-06-07 21:04:05)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 32.66%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 32.00%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 4000 kontenerów
-Średnia zajętość wyniosła: 11.30%
+Łącznie zapakowano 100 kontenerów z dostępnych 6496 kontenerów
+Średnia zajętość wyniosła: 16.94%
 
-Raport wygenerowano: 1527888473.720495 (2018-06-01 21:27:53)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405446.1503427 (2018-06-07 21:04:06)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 31.42%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 34.29%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 3900 kontenerów
-Średnia zajętość wyniosła: 10.87%
+Łącznie zapakowano 100 kontenerów z dostępnych 6396 kontenerów
+Średnia zajętość wyniosła: 18.15%
 
-Raport wygenerowano: 1527888475.4244976 (2018-06-01 21:27:55)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405446.6853383 (2018-06-07 21:04:06)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 31.92%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 28.84%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 3800 kontenerów
-Średnia zajętość wyniosła: 11.04%
+Łącznie zapakowano 100 kontenerów z dostępnych 6296 kontenerów
+Średnia zajętość wyniosła: 15.27%
 
-Raport wygenerowano: 1527888477.263528 (2018-06-01 21:27:57)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405447.2483401 (2018-06-07 21:04:07)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 31.27%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 30.65%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 3700 kontenerów
-Średnia zajętość wyniosła: 10.82%
+Łącznie zapakowano 100 kontenerów z dostępnych 6196 kontenerów
+Średnia zajętość wyniosła: 16.22%
 
-Raport wygenerowano: 1527888479.0274944 (2018-06-01 21:27:59)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405447.831338 (2018-06-07 21:04:07)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 31.33%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 31.78%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 3600 kontenerów
-Średnia zajętość wyniosła: 10.84%
+Łącznie zapakowano 100 kontenerów z dostępnych 6096 kontenerów
+Średnia zajętość wyniosła: 16.82%
 
-Raport wygenerowano: 1527888480.6565254 (2018-06-01 21:28:00)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405448.4613383 (2018-06-07 21:04:08)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 33.75%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 30.59%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 3500 kontenerów
-Średnia zajętość wyniosła: 11.68%
+Łącznie zapakowano 100 kontenerów z dostępnych 5996 kontenerów
+Średnia zajętość wyniosła: 16.19%
 
-Raport wygenerowano: 1527888482.5944972 (2018-06-01 21:28:02)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405448.9553406 (2018-06-07 21:04:08)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 31.89%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 30.33%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 3400 kontenerów
-Średnia zajętość wyniosła: 11.04%
+Łącznie zapakowano 100 kontenerów z dostępnych 5896 kontenerów
+Średnia zajętość wyniosła: 16.05%
 
-Raport wygenerowano: 1527888484.302529 (2018-06-01 21:28:04)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405449.5123384 (2018-06-07 21:04:09)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 32.10%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 27.68%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 3300 kontenerów
-Średnia zajętość wyniosła: 11.11%
+Łącznie zapakowano 100 kontenerów z dostępnych 5796 kontenerów
+Średnia zajętość wyniosła: 14.65%
 
-Raport wygenerowano: 1527888486.2405355 (2018-06-01 21:28:06)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 34.96%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 3200 kontenerów
-Średnia zajętość wyniosła: 12.10%
-
-Raport wygenerowano: 1527888488.0885363 (2018-06-01 21:28:08)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 36.03%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 3100 kontenerów
-Średnia zajętość wyniosła: 12.47%
-
-Raport wygenerowano: 1527888489.892533 (2018-06-01 21:28:09)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 26.62%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 3000 kontenerów
-Średnia zajętość wyniosła: 9.21%
-
-Raport wygenerowano: 1527888491.2735326 (2018-06-01 21:28:11)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.26%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 2900 kontenerów
-Średnia zajętość wyniosła: 10.12%
-
-Raport wygenerowano: 1527888492.7165325 (2018-06-01 21:28:12)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.80%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 2800 kontenerów
-Średnia zajętość wyniosła: 10.31%
-
-Raport wygenerowano: 1527888494.491587 (2018-06-01 21:28:14)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 33.04%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 2700 kontenerów
-Średnia zajętość wyniosła: 11.43%
-
-Raport wygenerowano: 1527888496.1955757 (2018-06-01 21:28:16)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 33.39%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 2600 kontenerów
-Średnia zajętość wyniosła: 11.56%
-
-Raport wygenerowano: 1527888497.7186108 (2018-06-01 21:28:17)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.18%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 2500 kontenerów
-Średnia zajętość wyniosła: 10.10%
-
-Raport wygenerowano: 1527888499.5526075 (2018-06-01 21:28:19)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.01%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 2400 kontenerów
-Średnia zajętość wyniosła: 10.04%
-
-Raport wygenerowano: 1527888501.6055772 (2018-06-01 21:28:21)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.12%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 2300 kontenerów
-Średnia zajętość wyniosła: 10.08%
-
-Raport wygenerowano: 1527888503.725607 (2018-06-01 21:28:23)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 32.38%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 2200 kontenerów
-Średnia zajętość wyniosła: 11.21%
-
-Raport wygenerowano: 1527888505.1245794 (2018-06-01 21:28:25)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 30.57%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 2100 kontenerów
-Średnia zajętość wyniosła: 10.58%
-
-Raport wygenerowano: 1527888507.4095829 (2018-06-01 21:28:27)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 34.65%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 2000 kontenerów
-Średnia zajętość wyniosła: 11.99%
-
-Raport wygenerowano: 1527888509.0496068 (2018-06-01 21:28:29)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405450.0183384 (2018-06-07 21:04:10)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
 100 kontenerów, zajmując przy tym 31.36%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 1900 kontenerów
-Średnia zajętość wyniosła: 10.85%
+Łącznie zapakowano 100 kontenerów z dostępnych 5696 kontenerów
+Średnia zajętość wyniosła: 16.60%
 
-Raport wygenerowano: 1527888510.5836086 (2018-06-01 21:28:30)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405450.6663396 (2018-06-07 21:04:10)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 28.25%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 31.36%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 1800 kontenerów
-Średnia zajętość wyniosła: 9.78%
+Łącznie zapakowano 100 kontenerów z dostępnych 5596 kontenerów
+Średnia zajętość wyniosła: 16.60%
 
-Raport wygenerowano: 1527888512.5115764 (2018-06-01 21:28:32)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405451.1633375 (2018-06-07 21:04:11)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 32.39%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 31.73%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 1700 kontenerów
-Średnia zajętość wyniosła: 11.21%
+Łącznie zapakowano 100 kontenerów z dostępnych 5496 kontenerów
+Średnia zajętość wyniosła: 16.80%
 
-Raport wygenerowano: 1527888514.9175777 (2018-06-01 21:28:34)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405451.8013418 (2018-06-07 21:04:11)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 31.76%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 33.70%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 1600 kontenerów
-Średnia zajętość wyniosła: 10.99%
+Łącznie zapakowano 100 kontenerów z dostępnych 5396 kontenerów
+Średnia zajętość wyniosła: 17.84%
 
-Raport wygenerowano: 1527888516.5445764 (2018-06-01 21:28:36)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405452.432341 (2018-06-07 21:04:12)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.39%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 34.42%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 1500 kontenerów
-Średnia zajętość wyniosła: 10.17%
+Łącznie zapakowano 100 kontenerów z dostępnych 5296 kontenerów
+Średnia zajętość wyniosła: 18.22%
 
-Raport wygenerowano: 1527888518.5775764 (2018-06-01 21:28:38)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405453.0613403 (2018-06-07 21:04:13)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 30.90%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 35.34%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 1400 kontenerów
-Średnia zajętość wyniosła: 10.69%
+Łącznie zapakowano 100 kontenerów z dostępnych 5196 kontenerów
+Średnia zajętość wyniosła: 18.70%
 
-Raport wygenerowano: 1527888520.4975777 (2018-06-01 21:28:40)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405453.575339 (2018-06-07 21:04:13)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 34.66%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 30.67%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 1300 kontenerów
-Średnia zajętość wyniosła: 12.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 5096 kontenerów
+Średnia zajętość wyniosła: 16.24%
 
-Raport wygenerowano: 1527888522.4215765 (2018-06-01 21:28:42)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405454.1303377 (2018-06-07 21:04:14)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 32.17%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 31.56%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 1200 kontenerów
-Średnia zajętość wyniosła: 11.13%
+Łącznie zapakowano 100 kontenerów z dostępnych 4996 kontenerów
+Średnia zajętość wyniosła: 16.71%
 
-Raport wygenerowano: 1527888523.9835782 (2018-06-01 21:28:43)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405454.7123394 (2018-06-07 21:04:14)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.52%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 34.47%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 1100 kontenerów
-Średnia zajętość wyniosła: 10.22%
+Łącznie zapakowano 100 kontenerów z dostępnych 4896 kontenerów
+Średnia zajętość wyniosła: 18.25%
 
-Raport wygenerowano: 1527888525.336607 (2018-06-01 21:28:45)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405455.3463385 (2018-06-07 21:04:15)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 27.99%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 32.78%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 1000 kontenerów
-Średnia zajętość wyniosła: 9.68%
+Łącznie zapakowano 100 kontenerów z dostępnych 4796 kontenerów
+Średnia zajętość wyniosła: 17.35%
 
-Raport wygenerowano: 1527888527.361579 (2018-06-01 21:28:47)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405455.80034 (2018-06-07 21:04:15)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 32.36%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 26.13%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 900 kontenerów
-Średnia zajętość wyniosła: 11.20%
+Łącznie zapakowano 100 kontenerów z dostępnych 4696 kontenerów
+Średnia zajętość wyniosła: 13.83%
 
-Raport wygenerowano: 1527888528.6865764 (2018-06-01 21:28:48)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405456.3153389 (2018-06-07 21:04:16)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.19%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 30.73%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 800 kontenerów
-Średnia zajętość wyniosła: 10.10%
+Łącznie zapakowano 100 kontenerów z dostępnych 4596 kontenerów
+Średnia zajętość wyniosła: 16.27%
 
-Raport wygenerowano: 1527888530.5315795 (2018-06-01 21:28:50)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405456.7563415 (2018-06-07 21:04:16)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 35.70%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 28.38%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 700 kontenerów
-Średnia zajętość wyniosła: 12.35%
+Łącznie zapakowano 100 kontenerów z dostępnych 4496 kontenerów
+Średnia zajętość wyniosła: 15.02%
 
-Raport wygenerowano: 1527888532.3526046 (2018-06-01 21:28:52)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405457.2423375 (2018-06-07 21:04:17)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 30.00%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 27.96%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 600 kontenerów
-Średnia zajętość wyniosła: 10.38%
+Łącznie zapakowano 100 kontenerów z dostępnych 4396 kontenerów
+Średnia zajętość wyniosła: 14.80%
 
-Raport wygenerowano: 1527888533.9645767 (2018-06-01 21:28:53)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405457.790339 (2018-06-07 21:04:17)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 30.16%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
+100 kontenerów, zajmując przy tym 30.09%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 500 kontenerów
-Średnia zajętość wyniosła: 10.44%
+Łącznie zapakowano 100 kontenerów z dostępnych 4296 kontenerów
+Średnia zajętość wyniosła: 15.93%
 
-Raport wygenerowano: 1527888535.5555775 (2018-06-01 21:28:55)
-Przy pomocy algorytmu: bruteforce
+Raport wygenerowano: 1528405458.2993565 (2018-06-07 21:04:18)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 29.45%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 4196 kontenerów
+Średnia zajętość wyniosła: 15.59%
+
+Raport wygenerowano: 1528405458.8333395 (2018-06-07 21:04:18)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 29.79%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 4096 kontenerów
+Średnia zajętość wyniosła: 15.77%
+
+Raport wygenerowano: 1528405459.3973696 (2018-06-07 21:04:19)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 33.15%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 3996 kontenerów
+Średnia zajętość wyniosła: 17.55%
+
+Raport wygenerowano: 1528405459.9083376 (2018-06-07 21:04:19)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 30.05%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 3896 kontenerów
+Średnia zajętość wyniosła: 15.91%
+
+Raport wygenerowano: 1528405460.412342 (2018-06-07 21:04:20)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 32.06%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 3796 kontenerów
+Średnia zajętość wyniosła: 16.97%
+
+Raport wygenerowano: 1528405460.9113388 (2018-06-07 21:04:20)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 32.97%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 3696 kontenerów
+Średnia zajętość wyniosła: 17.45%
+
+Raport wygenerowano: 1528405461.389369 (2018-06-07 21:04:21)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 30.88%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 3596 kontenerów
+Średnia zajętość wyniosła: 16.35%
+
+Raport wygenerowano: 1528405461.9743395 (2018-06-07 21:04:21)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 33.55%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 3496 kontenerów
+Średnia zajętość wyniosła: 17.76%
+
+Raport wygenerowano: 1528405462.4773412 (2018-06-07 21:04:22)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 32.34%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 3396 kontenerów
+Średnia zajętość wyniosła: 17.12%
+
+Raport wygenerowano: 1528405463.0273366 (2018-06-07 21:04:23)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 31.38%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 3296 kontenerów
+Średnia zajętość wyniosła: 16.61%
+
+Raport wygenerowano: 1528405463.6323423 (2018-06-07 21:04:23)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 34.92%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 3196 kontenerów
+Średnia zajętość wyniosła: 18.49%
+
+Raport wygenerowano: 1528405464.218337 (2018-06-07 21:04:24)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 35.24%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 3096 kontenerów
+Średnia zajętość wyniosła: 18.65%
+
+Raport wygenerowano: 1528405464.6783402 (2018-06-07 21:04:24)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 27.07%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 2996 kontenerów
+Średnia zajętość wyniosła: 14.33%
+
+Raport wygenerowano: 1528405465.139339 (2018-06-07 21:04:25)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 29.40%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 2896 kontenerów
+Średnia zajętość wyniosła: 15.56%
+
+Raport wygenerowano: 1528405465.6453407 (2018-06-07 21:04:25)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 29.32%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 2796 kontenerów
+Średnia zajętość wyniosła: 15.52%
+
+Raport wygenerowano: 1528405466.1523407 (2018-06-07 21:04:26)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 32.72%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 2696 kontenerów
+Średnia zajętość wyniosła: 17.32%
+
+Raport wygenerowano: 1528405466.7003386 (2018-06-07 21:04:26)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 33.99%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 2596 kontenerów
+Średnia zajętość wyniosła: 17.99%
+
+Raport wygenerowano: 1528405467.19834 (2018-06-07 21:04:27)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 29.69%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 2496 kontenerów
+Średnia zajętość wyniosła: 15.72%
+
+Raport wygenerowano: 1528405467.6863375 (2018-06-07 21:04:27)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 28.72%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 2396 kontenerów
+Średnia zajętość wyniosła: 15.20%
+
+Raport wygenerowano: 1528405468.1703372 (2018-06-07 21:04:28)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 29.56%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 2296 kontenerów
+Średnia zajętość wyniosła: 15.65%
+
+Raport wygenerowano: 1528405468.660342 (2018-06-07 21:04:28)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 32.03%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 2196 kontenerów
+Średnia zajętość wyniosła: 16.95%
+
+Raport wygenerowano: 1528405469.22134 (2018-06-07 21:04:29)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 30.50%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 2096 kontenerów
+Średnia zajętość wyniosła: 16.15%
+
+Raport wygenerowano: 1528405469.7783413 (2018-06-07 21:04:29)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 36.00%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 1996 kontenerów
+Średnia zajętość wyniosła: 19.05%
+
+Raport wygenerowano: 1528405470.2553678 (2018-06-07 21:04:30)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 29.78%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 1896 kontenerów
+Średnia zajętość wyniosła: 15.76%
+
+Raport wygenerowano: 1528405470.694341 (2018-06-07 21:04:30)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 28.33%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 1796 kontenerów
+Średnia zajętość wyniosła: 14.99%
+
+Raport wygenerowano: 1528405471.2523367 (2018-06-07 21:04:31)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 33.37%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 1696 kontenerów
+Średnia zajętość wyniosła: 17.66%
+
+Raport wygenerowano: 1528405471.7593677 (2018-06-07 21:04:31)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 31.49%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 1596 kontenerów
+Średnia zajętość wyniosła: 16.67%
+
+Raport wygenerowano: 1528405472.1923382 (2018-06-07 21:04:32)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 29.32%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 1496 kontenerów
+Średnia zajętość wyniosła: 15.52%
+
+Raport wygenerowano: 1528405472.7293382 (2018-06-07 21:04:32)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 30.53%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 1396 kontenerów
+Średnia zajętość wyniosła: 16.16%
+
+Raport wygenerowano: 1528405473.337337 (2018-06-07 21:04:33)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 34.91%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 1296 kontenerów
+Średnia zajętość wyniosła: 18.48%
+
+Raport wygenerowano: 1528405473.842341 (2018-06-07 21:04:33)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 32.05%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 1196 kontenerów
+Średnia zajętość wyniosła: 16.97%
+
+Raport wygenerowano: 1528405474.258344 (2018-06-07 21:04:34)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 28.61%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 1096 kontenerów
+Średnia zajętość wyniosła: 15.14%
+
+Raport wygenerowano: 1528405474.7483423 (2018-06-07 21:04:34)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 29.33%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 996 kontenerów
+Średnia zajętość wyniosła: 15.52%
+
+Raport wygenerowano: 1528405475.2563393 (2018-06-07 21:04:35)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 31.58%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 896 kontenerów
+Średnia zajętość wyniosła: 16.71%
+
+Raport wygenerowano: 1528405475.735339 (2018-06-07 21:04:35)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 30.21%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 796 kontenerów
+Średnia zajętość wyniosła: 15.99%
+
+Raport wygenerowano: 1528405476.3723428 (2018-06-07 21:04:36)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 34.69%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 696 kontenerów
+Średnia zajętość wyniosła: 18.36%
+
+Raport wygenerowano: 1528405476.8713422 (2018-06-07 21:04:36)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 30.29%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 596 kontenerów
+Średnia zajętość wyniosła: 16.04%
+
+Raport wygenerowano: 1528405477.28337 (2018-06-07 21:04:37)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 29.79%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 496 kontenerów
+Średnia zajętość wyniosła: 15.77%
+
+Raport wygenerowano: 1528405477.773338 (2018-06-07 21:04:37)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 32.25%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 396 kontenerów
+Średnia zajętość wyniosła: 17.07%
+
+Raport wygenerowano: 1528405478.2353697 (2018-06-07 21:04:38)
+Przy pomocy: Algorytm bruteforce
+Na statek o id = 0 załadowano:
+100 kontenerów, zajmując przy tym 32.44%
+Na statek o id = 3 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Na statek o id = 4 załadowano:
+0 kontenerów, zajmując przy tym 0.00%
+Łącznie zapakowano 100 kontenerów z dostępnych 296 kontenerów
+Średnia zajętość wyniosła: 17.17%
+
+Raport wygenerowano: 1528405478.7043388 (2018-06-07 21:04:38)
+Przy pomocy: Algorytm bruteforce
 Na statek o id = 0 załadowano:
 100 kontenerów, zajmując przy tym 31.62%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 3 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
 Na statek o id = 4 załadowano:
 0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 400 kontenerów
-Średnia zajętość wyniosła: 10.94%
-
-Raport wygenerowano: 1527888537.2485757 (2018-06-01 21:28:57)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 32.69%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 300 kontenerów
-Średnia zajętość wyniosła: 11.31%
-
-Raport wygenerowano: 1527888538.8176079 (2018-06-01 21:28:58)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 32.12%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 200 kontenerów
-Średnia zajętość wyniosła: 11.12%
-
-Raport wygenerowano: 1527888540.4595768 (2018-06-01 21:29:00)
-Przy pomocy algorytmu: bruteforce
-Na statek o id = 0 załadowano:
-100 kontenerów, zajmując przy tym 29.29%
-Na statek o id = 2 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 1 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 3 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Na statek o id = 4 załadowano:
-0 kontenerów, zajmując przy tym 0.00%
-Łącznie zapakowano 100 kontenerów z dostępnych 100 kontenerów
-Średnia zajętość wyniosła: 10.14%
+Łącznie zapakowano 100 kontenerów z dostępnych 196 kontenerów
+Średnia zajętość wyniosła: 16.74%
 

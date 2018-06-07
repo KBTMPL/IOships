@@ -8,7 +8,7 @@ import time as t
 
 
 def own_testing():
-    n = 10000
+    n = 500
     max_xdim = 10  # i
     max_ydim = 10  # j
     min_xdim = 1  # i
@@ -50,19 +50,25 @@ def own_testing():
     empty_ships_greed = 0
     empty_ships_brute = 0
 
+    print('Algorytm zachłanny rozpoczął swoją pracę')
     out = 0
     while out != 1337:
         out = t1.perform_algorithm()
-        i_greed += 1
         if out != 1337:
+            i_greed += 1
             empty_ships_greed += out.empty_ships
+    print('Algorytm zachłanny zakończył swoją pracę')
+    print()
 
+    print('Algorytm bruteforce rozpoczął swoją pracę')
     out = 0
     while out != 1337:
         out = t2.perform_algorithm()
-        i_brute += 1
         if out != 1337:
+            i_brute += 1
             empty_ships_brute += out.empty_ships
+    print('Algorytm bruteforce zakończył swoją pracę')
+    print()
 
     test_output = list()
 
@@ -74,7 +80,7 @@ def own_testing():
     test_output.append('Algorytm zachłanny: ' + str(empty_ships_greed))
     test_output.append('Algorytm bruteforce: ' + str(empty_ships_brute))
 
-    open('test_outputs\\tests.txt', 'a',  encoding="utf-8").write('\n'.join(test_output))
+    open('test_outputs\\tests.txt', 'a',  encoding="utf-8").write('\n'.join(test_output) + '\n\n')
 
     # t1.start()
     # t2.start()
@@ -92,9 +98,34 @@ def client_data_testing(ships_path, containers_path):
     ships = []
     ships_data = open(ships_path).read().splitlines()
     for line in ships_data:
-        buffer = line.split(',')
-        ships.append(
-            Ship(int(buffer[0]), [int(buffer[1].lstrip('[')), int(buffer[2].rstrip((']')))], int(buffer[3])))
+        space_i = 1
+        space_j = 1
+        flag = False
+        try:
+            buffer = line.split(',')
+            if buffer.__len__() != 4:
+                print('Zła ilość parametrów')
+                print('Statek:')
+                print(line)
+                print()
+                continue
+            buffer = line.split(',')
+            ids = int(buffer[0])
+            space_i = int(buffer[1].lstrip('['))
+            space_j = int(buffer[2].rstrip(']'))
+            capacity = int(buffer[3])
+        except ValueError as verr:
+            print('Uszkodzona linia (zły typ danych)')
+            flag = True
+        except Exception as ex:
+            print('Uszkodzona linia (zły typ danych)')
+            flag = True
+        if flag:
+            print('Statek:')
+            print(line)
+            print()
+            continue
+        ships.append(Ship(ids, [space_i, space_j], capacity))
 
     copyfile(containers_path, a1c)
     copyfile(containers_path, a2c)
@@ -115,19 +146,27 @@ def client_data_testing(ships_path, containers_path):
     empty_ships_greed = 0
     empty_ships_brute = 0
 
+    print('Algorytm zachłanny rozpoczął swoją pracę')
     out = 0
     while out != 1337:
         out = t1.perform_algorithm()
-        i_greed += 1
         if out != 1337:
+            i_greed += 1
             empty_ships_greed += out.empty_ships
+        else:
+            print('Algorytm zachłanny zakończył swoją pracę')
+            print()
 
+    print('Algorytm bruteforce rozpoczął swoją pracę')
     out = 0
     while out != 1337:
         out = t2.perform_algorithm()
-        i_brute += 1
         if out != 1337:
+            i_brute += 1
             empty_ships_brute += out.empty_ships
+        else:
+            print('Algorytm bruteforce zakończył swoją pracę')
+            print()
 
     test_output = list()
 
@@ -150,5 +189,5 @@ def client_data_testing(ships_path, containers_path):
 # client_data_testing('DataInputGroupPT1440_SHIPS.csv', 'DataInputGroupPT1440.csv')
 
 
-for i in range(20):
+for i in range(1):
     own_testing()

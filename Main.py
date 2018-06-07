@@ -57,7 +57,7 @@ class Report:
         sort_buffer = dict()
 
         lines_to_write.append('Raport wygenerowano: ' + str(self.timestamp) + ' (' + str(t.strftime("%Y-%m-%d %H:%M:%S", t.gmtime(self.timestamp))) + ')')
-        lines_to_write.append('Przy pomocy algorytmu: ' + self.algorithm_name)
+        lines_to_write.append('Przy pomocy: ' + self.algorithm_name)
         for ship in self.ships:
             sort_buffer[ship.ids] = 'Na statek o id = ' + str(ship.ids) + ' załadowano:\n' + str(int(ship.containers_loaded)) + ' kontenerów, zajmując przy tym ' + str("%.2f" % (ship.area_taken / ship.floor_area * 100)) + '%'
         sorted_buffer = collections.OrderedDict(sorted(sort_buffer.items()))
@@ -66,5 +66,5 @@ class Report:
         lines_to_write.append('Łącznie zapakowano ' + str(int(self.sum_containers_loaded)) + ' kontenerów z dostępnych ' + str(int(self.containers_num)) + ' kontenerów')
         lines_to_write.append('Średnia zajętość wyniosła: ' + str("%.2f" % (self.sum_area_taken / self.overall_area * 100)) + '%')
         open(self.path, 'a',  encoding="utf-8").write('\n'.join(lines_to_write) + '\n\n')
-        print(lines_to_write[0] + ' | ' + lines_to_write[1])
+        # print(lines_to_write[0] + ' | ' + lines_to_write[1])
 
