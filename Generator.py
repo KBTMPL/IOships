@@ -18,6 +18,8 @@ class Generator:
         idc = open('id.txt', 'r').readline()
         if idc.isnumeric():
             self.idc = int(idc)
+        else:
+            self.idc = 0
 
     def generate_containers(self):
         self.containers = []
