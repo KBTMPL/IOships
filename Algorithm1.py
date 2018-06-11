@@ -28,7 +28,7 @@ class Algorithm1(threading.Thread):
 
     def run(self):
         out = 0
-        while out != 1337:
+        while out != -1:
             out = self.perform_algorithm()
 
     def clear_ships(self):
@@ -153,4 +153,4 @@ class Algorithm1(threading.Thread):
         else:
             # alert end user about not meeting the condition stated above
             print('Nie dostarczono ' + str(self.max_containers) + ' kontenerów | ' + self.algorithm_name)
-            return 1337
+            return -1

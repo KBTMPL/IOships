@@ -8,7 +8,7 @@ import time as t
 
 
 def own_testing():
-    n = 500
+    n = 10000
     max_xdim = 10  # i
     max_ydim = 10  # j
     min_xdim = 1  # i
@@ -36,7 +36,7 @@ def own_testing():
 
     # run algorithm
 
-    ships_cp = copy.copy(ships)
+    ships_cp = copy.deepcopy(ships)
 
     open(a1r, 'w').close()
     open(a2r, 'w').close()
@@ -52,9 +52,9 @@ def own_testing():
 
     print('Algorytm zachłanny rozpoczął swoją pracę')
     out = 0
-    while out != 1337:
+    while out != -1:
         out = t1.perform_algorithm()
-        if out != 1337:
+        if out != -1:
             i_greed += 1
             empty_ships_greed += out.empty_ships
     print('Algorytm zachłanny zakończył swoją pracę')
@@ -62,9 +62,9 @@ def own_testing():
 
     print('Algorytm bruteforce rozpoczął swoją pracę')
     out = 0
-    while out != 1337:
+    while out != -1:
         out = t2.perform_algorithm()
-        if out != 1337:
+        if out != -1:
             i_brute += 1
             empty_ships_brute += out.empty_ships
     print('Algorytm bruteforce zakończył swoją pracę')
@@ -126,6 +126,7 @@ def client_data_testing(ships_path, containers_path):
             print()
             continue
         ships.append(Ship(ids, [space_i, space_j], capacity))
+    print('Załadowano ' + str(ships.__len__()) + ' statków')
 
     copyfile(containers_path, a1c)
     copyfile(containers_path, a2c)
@@ -148,9 +149,9 @@ def client_data_testing(ships_path, containers_path):
 
     print('Algorytm zachłanny rozpoczął swoją pracę')
     out = 0
-    while out != 1337:
+    while out != -1:
         out = t1.perform_algorithm()
-        if out != 1337:
+        if out != -1:
             i_greed += 1
             empty_ships_greed += out.empty_ships
         else:
@@ -159,9 +160,9 @@ def client_data_testing(ships_path, containers_path):
 
     print('Algorytm bruteforce rozpoczął swoją pracę')
     out = 0
-    while out != 1337:
+    while out != -1:
         out = t2.perform_algorithm()
-        if out != 1337:
+        if out != -1:
             i_brute += 1
             empty_ships_brute += out.empty_ships
         else:
@@ -186,8 +187,8 @@ def client_data_testing(ships_path, containers_path):
     # while t1.is_alive() or t2.is_alive():
     #    pass
 
-# client_data_testing('DataInputGroupPT1440_SHIPS.csv', 'DataInputGroupPT1440.csv')
+client_data_testing('DataInputGroupPT1440_SHIPS.csv', 'DataInputGroupPT1440.csv')
 
 
-for i in range(1):
-    own_testing()
+# for i in range(30):
+    #own_testing()
