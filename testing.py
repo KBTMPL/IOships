@@ -190,5 +190,5 @@ def client_data_testing(ships_path, containers_path):
 client_data_testing('DataInputGroupPT1440_SHIPS.csv', 'DataInputGroupPT1440.csv')
 
 
-# for i in range(30):
-    #own_testing()
+# for i in range(1):
+    # own_testing()

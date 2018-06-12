@@ -1,6 +1,6 @@
 from Main import Container
 from Main import Report
-from random import shuffle
+import random
 import operator
 import numpy as np
 import threading
@@ -92,11 +92,12 @@ class Algorithm2(threading.Thread):
             open(self.path, 'w').close()
 
     def shuffle_containers_and_sort_stamp(self):
-        # keyfun1 = operator.attrgetter('floor_area')
-        # self.containers.sort(key=keyfun1, reverse=True)
-        shuffle(self.containers)
+        random.shuffle(self.containers)
         keyfun2 = operator.attrgetter('timestamp')
         self.containers.sort(key=keyfun2, reverse=False)
+
+    def shuffle_containers(self):
+        random.shuffle(self.containers)
 
     def sort_ships_capacity(self):
         keyfun1 = operator.attrgetter('floor_area')
@@ -143,6 +144,8 @@ class Algorithm2(threading.Thread):
             self.shuffle_containers_and_sort_stamp()
             # make containers (100 of them) placeable
             self.make_placeable()
+            # another shuffle
+            self.shuffle_containers()
             # sort ships by floor area
             self.sort_ships_capacity()
             # start loading containers
